@@ -1,0 +1,20 @@
+{
+  "id": "DB/model",
+  "title": "model",
+  "description": "",
+  "source": "@site/docs/DB/model.md",
+  "sourceDirName": "DB",
+  "slug": "/DB/model",
+  "permalink": "/t/docs/DB/model",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/DB/model.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "endpoints",
+    "permalink": "/t/docs/API/endpoints"
+  }
+}

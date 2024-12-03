@@ -1,0 +1,15 @@
+{
+  "id": "API/endpoints",
+  "title": "endpoints",
+  "description": "",
+  "source": "@site/docs/API/endpoints.md",
+  "sourceDirName": "API",
+  "slug": "/API/endpoints",
+  "permalink": "/t/docs/API/endpoints",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/API/endpoints.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,25 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/t/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/t/docs",
+          "mainDocId": "API/endpoints",
+          "docs": [
+            {
+              "id": "API/endpoints",
+              "path": "/t/docs/API/endpoints"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {}
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
